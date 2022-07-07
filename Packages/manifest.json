@@ -36,7 +36,7 @@
     "com.unity.modules.vr": "1.0.0",
     "com.unity.modules.wind": "1.0.0",
     "com.unity.modules.xr": "1.0.0",
-    "com.ygbr.git-tools": "0.0.1"
+    "com.ygbr.git-tools": "0.0.2"
   },
   "scopedRegistries": [
     {

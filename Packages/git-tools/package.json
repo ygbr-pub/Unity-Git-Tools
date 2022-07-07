@@ -1,6 +1,6 @@
 {
     "name": "com.ygbr.git-tools",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "displayName": "Git Tools",
     "description": "A collection of helpers to allow Unity to interface with a projects git repository.",
     "license": "proprietary",
