@@ -1,0 +1,11 @@
+{
+    "name": "com.ygbr.git-tools.Runtime.Tests",
+    "references": [
+        "com.ygbr.git-tools.Runtime"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}
