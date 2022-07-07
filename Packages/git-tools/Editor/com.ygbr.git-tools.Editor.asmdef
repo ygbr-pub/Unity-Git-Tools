@@ -1,0 +1,11 @@
+{
+    "name": "com.ygbr.git-tools.Editor",
+    "references": [
+        "com.ygbr.git-tools.Runtime"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "optionalUnityReferences": []
+}

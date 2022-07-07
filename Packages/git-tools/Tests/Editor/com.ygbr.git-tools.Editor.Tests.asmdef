@@ -1,0 +1,14 @@
+{
+    "name": "com.ygbr.git-tools.Editor.Tests",
+    "references": [
+        "com.ygbr.git-tools.Runtime",
+        "com.ygbr.git-tools.Editor"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ]
+}
